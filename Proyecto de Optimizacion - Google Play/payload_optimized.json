@@ -1,0 +1,13 @@
+{
+    "Reviews": 10000,
+    "Size": 15.0,
+    "Installs": 1000000,
+    "Price": 0.0,
+    "Type": "Free",
+    "Content Rating": "Everyone",
+    "Genres": "Tools",
+    "Mean_Sentiment_Polarity": 0.2,
+    "Mean_Sentiment_Subjectivity": 0.5,
+    "Review_Install_Ratio": 0.01,
+    "Category_Grouped": "TOOLS"
+}
